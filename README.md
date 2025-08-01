@@ -1,5 +1,39 @@
 # 💫 About Me:
-👤 Zhaxybaev Nursat — Full-Stack Developer (Backend-Focused) | Linux Expert | Future Tech Leader<br>Age: 17<br>Location: Kazakhstan<br>Status: Incoming 3rd-year student at JIHC College<br>Languages: Kazakh (native), Russian, English (Level: B1–B2 CEFR)<br>IQ: ~123<br>Career Goal: Remote Full-Stack Developer with DevOps & Machine Learning skills<br><br>💻 Technical Skills<br>✅ Backend (Strong Proficiency)<br>Python (Middle level)<br><br>FastAPI (JWT auth, routers, background tasks)<br><br>SQLAlchemy ORM with Alembic migrations<br><br>PostgreSQL<br><br>Redis (caching, temporary store)<br><br>Celery for background and scheduled tasks<br><br>Pydantic (data validation, request/response models)<br><br>🤖 Telegram Bot Development<br>Aiogram 3.x<br><br>Sending messages/media using file IDs<br><br>Reading user/chat IDs from .txt filenames<br><br>Automating daily/periodic messages<br><br>Running bots via systemd or Docker<br><br>🐧 DevOps & Infrastructure<br>Linux (Ubuntu): advanced CLI usage, system cleanup<br><br>Docker & Docker Compose<br><br>Full backend stacks (FastAPI + Redis + Celery + Postgres)<br><br>Isolated dev/prod environments<br><br>Systemd services: daemonized bot/app launching<br><br>Virtualenv, pip, Python packaging<br><br>🎨 Frontend (Learning in Progress)<br>HTML, CSS, Grid/Flexbox, Media Queries, animations<br><br>Basic JavaScript<br><br>Planned learning: Vue, TypeScript, SCSS, TailwindCSS, Pinia<br><br>🛠️ Projects You've Built<br>Kanban Board System: custom Boards & Tasks with SQLAlchemy models<br><br>JWT Auth API: login, registration, user profile (FastAPI + PostgreSQL)<br><br>Telegram Bot: message broadcasting via file IDs and user chat ID .txt parsing<br><br>Dockerized Microservices: backend + Celery + Redis setup<br><br>Hard Demo Projects: full app development under tight time limit (≤8h), frontend-optional<br><br>🎯 Current Goals (August 2025)<br>Learn and master Vue + TS + Tailwind + SCSS in 20 days<br><br>Build a real full-stack app combining both frontend/backend<br><br>Push 20+ real GitHub projects<br><br>Build a modern, responsive portfolio website<br><br>Improve English to upper-intermediate/advanced (B2→C1) level<br><br>Start working remotely during college on real dev tasks<br><br>🧠 What Sets You Apart<br>🧩 Fast learner when deeply interested<br><br>🔍 Focused on clarity, logic, and deep code understanding<br><br>🚫 Refuses boilerplate — wants runnable, testable, real output<br><br>🧠 Strong in system management, deployment, and debugging<br><br>⚙️ Writes code like an engineer, not just a coder<br><br>🎯 Creates and follows structured daily learning plans<br><br>🛠 Has both the builder mindset and systems thinking<br><br>
+👤 <strong>Zhaxybaev Nursat</strong> — Full-Stack Developer (Backend-Focused) | Linux Expert | Future Tech Leader<br>
+<strong>Age:</strong> 17<br>
+<strong>Location:</strong> Kazakhstan<br>
+<strong>Status:</strong> Incoming 3rd-year student at JIHC College<br>
+<strong>Languages:</strong> Kazakh (native), Russian, English (B1–B2 CEFR)<br>
+<strong>IQ:</strong> ~123<br>
+<strong>Career Goal:</strong> Remote Full-Stack Developer with DevOps & ML focus<br>
+<br>
+💻 <strong>Technical Skills</strong><br>
+✅ <strong>Backend:</strong> Python (Mid), FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis, Celery, Pydantic<br>
+🤖 <strong>Telegram Bots:</strong> Aiogram 3, file/media sending, chat ID parsing from .txt, Docker/systemd<br>
+🐧 <strong>DevOps:</strong> Ubuntu/Linux, Docker Compose, virtualenv, systemd, CLI mastery<br>
+🎨 <strong>Frontend (Learning):</strong> HTML, CSS, Grid/Flexbox, JS, animations<br>
+→ <strong>Planned:</strong> Vue, TypeScript, SCSS, TailwindCSS, Pinia<br>
+<br>
+🛠️ <strong>Projects</strong><br>
+• Kanban Board system (FastAPI + SQLAlchemy)<br>
+• JWT Auth API (FastAPI + PostgreSQL)<br>
+• Telegram Bot (file ID broadcasting + chat ID files)<br>
+• Full backend stack in Docker (Celery, Redis, FastAPI)<br>
+• Hard 8h builds (backend-first, real logic)<br>
+<br>
+🎯 <strong>Goals (Aug 2025)</strong><br>
+• Master Vue + TS + Tailwind + SCSS in 20 days<br>
+• Build full-stack apps & portfolio<br>
+• Reach 20+ real GitHub projects<br>
+• Improve English (B2 → C1)<br>
+• Start remote job during college<br>
+<br>
+🧠 <strong>What Sets Me Apart</strong><br>
+🧩 Fast learner when focused<br>
+🔍 Deep code logic over copy-paste<br>
+🚫 No placeholders — real, testable output<br>
+🧠 Strong at deployment, Linux, backend<br>
+⚙️ Builder mindset, systems thinker<br>
 
 
 ## 🌐 Socials:
